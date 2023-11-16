@@ -20,6 +20,8 @@ public:
 
     Trajectories start(const double&, const uint&) const;
 
+    void setTraj(const uint &amount) { _amountTraj = amount; }
+
 private:
     Equation _equation;
     uint _amountTraj;

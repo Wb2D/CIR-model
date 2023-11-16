@@ -1,0 +1,404 @@
+{
+    "results": [
+        {
+            "elapsedTime": 0,
+            "numberOfIterations": 10
+        },
+        {
+            "elapsedTime": 1,
+            "numberOfIterations": 20
+        },
+        {
+            "elapsedTime": 3,
+            "numberOfIterations": 30
+        },
+        {
+            "elapsedTime": 4,
+            "numberOfIterations": 40
+        },
+        {
+            "elapsedTime": 5,
+            "numberOfIterations": 50
+        },
+        {
+            "elapsedTime": 7,
+            "numberOfIterations": 60
+        },
+        {
+            "elapsedTime": 8,
+            "numberOfIterations": 70
+        },
+        {
+            "elapsedTime": 10,
+            "numberOfIterations": 80
+        },
+        {
+            "elapsedTime": 11,
+            "numberOfIterations": 90
+        },
+        {
+            "elapsedTime": 13,
+            "numberOfIterations": 100
+        },
+        {
+            "elapsedTime": 15,
+            "numberOfIterations": 110
+        },
+        {
+            "elapsedTime": 24,
+            "numberOfIterations": 120
+        },
+        {
+            "elapsedTime": 16,
+            "numberOfIterations": 130
+        },
+        {
+            "elapsedTime": 18,
+            "numberOfIterations": 140
+        },
+        {
+            "elapsedTime": 23,
+            "numberOfIterations": 150
+        },
+        {
+            "elapsedTime": 28,
+            "numberOfIterations": 160
+        },
+        {
+            "elapsedTime": 23,
+            "numberOfIterations": 170
+        },
+        {
+            "elapsedTime": 24,
+            "numberOfIterations": 180
+        },
+        {
+            "elapsedTime": 26,
+            "numberOfIterations": 190
+        },
+        {
+            "elapsedTime": 38,
+            "numberOfIterations": 200
+        },
+        {
+            "elapsedTime": 28,
+            "numberOfIterations": 210
+        },
+        {
+            "elapsedTime": 40,
+            "numberOfIterations": 220
+        },
+        {
+            "elapsedTime": 31,
+            "numberOfIterations": 230
+        },
+        {
+            "elapsedTime": 41,
+            "numberOfIterations": 240
+        },
+        {
+            "elapsedTime": 36,
+            "numberOfIterations": 250
+        },
+        {
+            "elapsedTime": 39,
+            "numberOfIterations": 260
+        },
+        {
+            "elapsedTime": 44,
+            "numberOfIterations": 270
+        },
+        {
+            "elapsedTime": 49,
+            "numberOfIterations": 280
+        },
+        {
+            "elapsedTime": 43,
+            "numberOfIterations": 290
+        },
+        {
+            "elapsedTime": 50,
+            "numberOfIterations": 300
+        },
+        {
+            "elapsedTime": 45,
+            "numberOfIterations": 310
+        },
+        {
+            "elapsedTime": 48,
+            "numberOfIterations": 320
+        },
+        {
+            "elapsedTime": 57,
+            "numberOfIterations": 330
+        },
+        {
+            "elapsedTime": 47,
+            "numberOfIterations": 340
+        },
+        {
+            "elapsedTime": 62,
+            "numberOfIterations": 350
+        },
+        {
+            "elapsedTime": 63,
+            "numberOfIterations": 360
+        },
+        {
+            "elapsedTime": 57,
+            "numberOfIterations": 370
+        },
+        {
+            "elapsedTime": 55,
+            "numberOfIterations": 380
+        },
+        {
+            "elapsedTime": 67,
+            "numberOfIterations": 390
+        },
+        {
+            "elapsedTime": 59,
+            "numberOfIterations": 400
+        },
+        {
+            "elapsedTime": 66,
+            "numberOfIterations": 410
+        },
+        {
+            "elapsedTime": 65,
+            "numberOfIterations": 420
+        },
+        {
+            "elapsedTime": 67,
+            "numberOfIterations": 430
+        },
+        {
+            "elapsedTime": 69,
+            "numberOfIterations": 440
+        },
+        {
+            "elapsedTime": 69,
+            "numberOfIterations": 450
+        },
+        {
+            "elapsedTime": 74,
+            "numberOfIterations": 460
+        },
+        {
+            "elapsedTime": 74,
+            "numberOfIterations": 470
+        },
+        {
+            "elapsedTime": 73,
+            "numberOfIterations": 480
+        },
+        {
+            "elapsedTime": 75,
+            "numberOfIterations": 490
+        },
+        {
+            "elapsedTime": 78,
+            "numberOfIterations": 500
+        },
+        {
+            "elapsedTime": 79,
+            "numberOfIterations": 510
+        },
+        {
+            "elapsedTime": 82,
+            "numberOfIterations": 520
+        },
+        {
+            "elapsedTime": 82,
+            "numberOfIterations": 530
+        },
+        {
+            "elapsedTime": 84,
+            "numberOfIterations": 540
+        },
+        {
+            "elapsedTime": 93,
+            "numberOfIterations": 550
+        },
+        {
+            "elapsedTime": 83,
+            "numberOfIterations": 560
+        },
+        {
+            "elapsedTime": 87,
+            "numberOfIterations": 570
+        },
+        {
+            "elapsedTime": 91,
+            "numberOfIterations": 580
+        },
+        {
+            "elapsedTime": 92,
+            "numberOfIterations": 590
+        },
+        {
+            "elapsedTime": 94,
+            "numberOfIterations": 600
+        },
+        {
+            "elapsedTime": 92,
+            "numberOfIterations": 610
+        },
+        {
+            "elapsedTime": 100,
+            "numberOfIterations": 620
+        },
+        {
+            "elapsedTime": 99,
+            "numberOfIterations": 630
+        },
+        {
+            "elapsedTime": 110,
+            "numberOfIterations": 640
+        },
+        {
+            "elapsedTime": 105,
+            "numberOfIterations": 650
+        },
+        {
+            "elapsedTime": 111,
+            "numberOfIterations": 660
+        },
+        {
+            "elapsedTime": 110,
+            "numberOfIterations": 670
+        },
+        {
+            "elapsedTime": 114,
+            "numberOfIterations": 680
+        },
+        {
+            "elapsedTime": 111,
+            "numberOfIterations": 690
+        },
+        {
+            "elapsedTime": 120,
+            "numberOfIterations": 700
+        },
+        {
+            "elapsedTime": 110,
+            "numberOfIterations": 710
+        },
+        {
+            "elapsedTime": 121,
+            "numberOfIterations": 720
+        },
+        {
+            "elapsedTime": 123,
+            "numberOfIterations": 730
+        },
+        {
+            "elapsedTime": 124,
+            "numberOfIterations": 740
+        },
+        {
+            "elapsedTime": 124,
+            "numberOfIterations": 750
+        },
+        {
+            "elapsedTime": 129,
+            "numberOfIterations": 760
+        },
+        {
+            "elapsedTime": 136,
+            "numberOfIterations": 770
+        },
+        {
+            "elapsedTime": 130,
+            "numberOfIterations": 780
+        },
+        {
+            "elapsedTime": 136,
+            "numberOfIterations": 790
+        },
+        {
+            "elapsedTime": 134,
+            "numberOfIterations": 800
+        },
+        {
+            "elapsedTime": 130,
+            "numberOfIterations": 810
+        },
+        {
+            "elapsedTime": 140,
+            "numberOfIterations": 820
+        },
+        {
+            "elapsedTime": 141,
+            "numberOfIterations": 830
+        },
+        {
+            "elapsedTime": 139,
+            "numberOfIterations": 840
+        },
+        {
+            "elapsedTime": 145,
+            "numberOfIterations": 850
+        },
+        {
+            "elapsedTime": 141,
+            "numberOfIterations": 860
+        },
+        {
+            "elapsedTime": 139,
+            "numberOfIterations": 870
+        },
+        {
+            "elapsedTime": 140,
+            "numberOfIterations": 880
+        },
+        {
+            "elapsedTime": 142,
+            "numberOfIterations": 890
+        },
+        {
+            "elapsedTime": 146,
+            "numberOfIterations": 900
+        },
+        {
+            "elapsedTime": 147,
+            "numberOfIterations": 910
+        },
+        {
+            "elapsedTime": 162,
+            "numberOfIterations": 920
+        },
+        {
+            "elapsedTime": 158,
+            "numberOfIterations": 930
+        },
+        {
+            "elapsedTime": 162,
+            "numberOfIterations": 940
+        },
+        {
+            "elapsedTime": 159,
+            "numberOfIterations": 950
+        },
+        {
+            "elapsedTime": 158,
+            "numberOfIterations": 960
+        },
+        {
+            "elapsedTime": 154,
+            "numberOfIterations": 970
+        },
+        {
+            "elapsedTime": 164,
+            "numberOfIterations": 980
+        },
+        {
+            "elapsedTime": 161,
+            "numberOfIterations": 990
+        },
+        {
+            "elapsedTime": 161,
+            "numberOfIterations": 1000
+        }
+    ]
+}
