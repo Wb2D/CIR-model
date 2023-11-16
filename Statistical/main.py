@@ -44,8 +44,8 @@ def calculate_stats(data):
     return trajectory_stats
 
 
-input_file_path = "C:\Qt\Projects\\build-CIR-Desktop_Qt_5_12_12_MinGW_64_bit-Debug\\test1.json"
-output_file_path = "C:\Qt\Projects\\build-CIR-Desktop_Qt_5_12_12_MinGW_64_bit-Debug\\test2.json"
+input_file_path = "C:\Qt\Projects\CIR\Data\Plots\TeylorMethod\\t0 = 2\\test1.json"
+output_file_path = "C:\Qt\Projects\CIR\Data\Plots\TeylorMethod\\t0 = 2\\test2.json"
 
 with open(input_file_path, 'r') as file:
     json_data = json.load(file)
