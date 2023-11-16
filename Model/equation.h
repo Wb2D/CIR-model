@@ -14,6 +14,9 @@ public:
     Equation(const double &k, const double &theta, const double &sigma) :
         _k(k), _theta(theta), _sigma(sigma) {}
 
+    double getK() const { return _k; }
+    double getSigma() const { return _sigma; }
+
     // детерминированная часть
     double F(const double &r) const { return _k * (_theta - r); }
     // стохастическая часть

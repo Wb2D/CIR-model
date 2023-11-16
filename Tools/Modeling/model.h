@@ -3,6 +3,7 @@
 
 #include <QVector>
 
+#include <QtMath>
 #include <chrono>
 #include <ctime>
 #include <random>

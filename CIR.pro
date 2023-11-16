@@ -13,9 +13,11 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 SOURCES += \
+    Tools/DataWorker/dataworker.cpp \
         Tools/Modeling/model.cpp \
 	main.cpp
 
 HEADERS += \
     Model/equation.h \
+    Tools/DataWorker/dataworker.h \
     Tools/Modeling/model.h
