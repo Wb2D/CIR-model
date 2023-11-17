@@ -1,7 +1,7 @@
 import json
 import matplotlib.pyplot as plt
 
-json_file_path = "C:\Qt\Projects\CIR\Data\Plots\TeylorMethod\\time.json"
+json_file_path = "C:\Qt\Projects\CIR\Data\Plots\RK3\\time.json"
 
 with open(json_file_path, 'r') as file:
     data = json.load(file)
